@@ -1,0 +1,15 @@
+.Wrapper{
+  height: 8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0180cc;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  width: 20%;
+}
