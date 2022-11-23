@@ -25,7 +25,7 @@ A aplicação foi desenvolvida com NodeJS no Backend e React no Frontend.
 $ git clone https://github.com/joaoneto-hub/challenge-accepted.git
 ```
 
-Para rodar o front-end localmente, basta executar o seguinte comando na raíz do repositório:
+Para rodar o front-end localmente, basta executar o seguinte comando na raíz da pasta front:
 
 ```bash
 yarn dev
@@ -36,7 +36,7 @@ ou
 npm run dev 
 ```
 
-Para rodar o Back-end localmente, basta executar o seguinte comando na raíz do repositório:
+Para rodar o Back-end localmente, basta executar o seguinte comando na raíz da pasta api:
 
 ```bash
 yarn dev
