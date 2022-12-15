@@ -46,7 +46,6 @@ function Home() {
         setForecastCity(item);
         setCity(item.locale);
       });
-      console.log(city);
     });
   }
 
@@ -148,5 +147,3 @@ function Home() {
 }
 export default Home;
 
-//temUnit={forecastCity.units.temperature}
-//precUnit={forecastCity.units.precipitation}
